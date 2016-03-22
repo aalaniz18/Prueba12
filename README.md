@@ -1,5 +1,7 @@
 # Prueba12
 Alvaro Alaniz, 35965627
-volviendo a rama master
 uno..
-...
+uno..
+dos viejaaa
+tres.
+Merge listo.

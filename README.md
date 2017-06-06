@@ -1,10 +1,7 @@
 # Prueba12
-Alvaro Alaniz, 35965627
-uno..
-uno..
-dos viejaaa
-tres.
-Merge listo.
-esto si se modifica?
-**** Siii, se modifica!
+Alvaro Alaniz
+**** INFO IMPORTANTE****
+(Guia de uso del github, bien explicado)
+http://rogerdudler.github.io/git-guide/index.es.html
+
 
